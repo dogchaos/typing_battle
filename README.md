@@ -1,2 +1,1 @@
-typing_battle
-=============
+hello!
